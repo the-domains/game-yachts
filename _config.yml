@@ -1,0 +1,14 @@
+layout_spectrum: 0.9255319
+typography_spectrum: 0.9212766
+color:
+  saturation: 0.5568017
+  lightness: 0.300914
+  brandStrength: 0.3888973
+  rhythmicContrast: 0.817588
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Game Yachts
